@@ -1,0 +1,11 @@
+.Ticket{
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 400px;
+}
+.design{
+    color:rgb(107, 39, 79);
+    text-shadow: 10px;
+   
+  
+}
